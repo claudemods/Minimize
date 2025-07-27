@@ -1,8 +1,13 @@
 minimize v1.0 plasma 6 only
 forked from https://store.kde.org/p/2132554/
-changed to suit my needs i like it!
+simple widget for plasma taskbar to show application overview with a krunner option
+changed to suit my needs with a new icon i like it!
 
 download link https://www.pling.com/p/2304528/
+
+new ideas for the future 
+new colours maybe command functionality from the search bar, lots to see 
+
 
 install method for plasma 6
 install from kde widget store on desktop or download from browser extract and place in /home/$USER/.local/share/plasma/plasmoids/
