@@ -11,7 +11,7 @@ new colours maybe command functionality from the search bar, lots to see
 
 install method for plasma 6
 install from kde widget store on desktop or download from browser extract and place in /home/$USER/.local/share/plasma/plasmoids/
-
+right click taskbar click add or manager widgets and type widgetpoweroptions drag to desktop or taskbar
 please also download and copy provided minimize.svg to e.g /usr/share/icons/hicolor/16x16/apps/minimize.svg
 
 <img width="1280" height="800" alt="minimize1" src="https://github.com/user-attachments/assets/c9519219-2663-45a0-bbd3-ed104c0b044e" />
